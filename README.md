@@ -10,6 +10,8 @@ by using Tonelli-Shanks algorithm
 ## Installation
 
 1. Install **Ubuntu**
-2. Install python version 3 (test with python 3.5.2)
-  `sudo apt-get install python3`
+2. Install python version 3 (test with python 3.5.2):
+  ```shell
+  sudo apt-get install python3
+  ```
 3. `python3 main.py`
