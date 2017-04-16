@@ -1,5 +1,4 @@
 # Quadratic Congruence Solver
-----
 
 Solving quadratic congruence equation on Z_p
 ```
@@ -14,4 +13,4 @@ by using Tonelli-Shanks algorithm
   ```shell
   sudo apt-get install python3
   ```
-3. `python3 main.py`
+3. Excute `python3 main.py`
